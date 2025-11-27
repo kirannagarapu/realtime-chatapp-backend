@@ -1,0 +1,5 @@
+chatpp_venv/
+__pycache__/
+*.pyc
+.env
+dev.db
